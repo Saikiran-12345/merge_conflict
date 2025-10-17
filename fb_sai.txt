@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 information tech nology
+=======
+aiml
+it
+cse
+ds
+>>>>>>> fb
